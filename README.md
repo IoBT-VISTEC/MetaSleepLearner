@@ -35,3 +35,18 @@ Five publicly datasets were used to evaluate our method including
 * Huy Phan
 * Nat Dilokthanakul
 * Theerawit Wilaiprasitporn
+
+## Citation
+To cite [our paper](https://doi.org/10.1109/JBHI.2020.3037693),
+
+```
+@ARTICLE{9258375,
+  author={N. {Banluesombatkul} and P. {Ouppaphan} and P. {Leelaarporn} and P. {Lakhan} and B. {Chaitusaney} and N. {Jaimchariya} and E. {Chuangsuwanich} and W. {Chen} and H. {Phan} and N. {Dilokthanakul} and T. {Wilaiprasitporn}},
+  journal={IEEE Journal of Biomedical and Health Informatics}, 
+  title={MetaSleepLearner: A Pilot Study on Fast Adaptation of Bio-signals-Based Sleep Stage Classifier to New Individual Subject Using Meta-Learning}, 
+  year={2020},
+  volume={},
+  number={},
+  pages={1-1},
+  doi={10.1109/JBHI.2020.3037693}}
+```
