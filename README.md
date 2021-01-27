@@ -23,19 +23,6 @@ Five publicly datasets were used to evaluate our method including
 * Every file: set GPU# before running
 * bot.py: add your chat ID and bot token (if you want to have notification, otherwise just remove all lines calling it.)
 
-## Contributors & Authors
-* Nannapas Banluesombatkul
-* Pichayoot Ouppaphan
-* Pitshaporn Leelaarporn
-* Payongkit Lakhan
-* Busarakum Chaitusaney
-* Nattapong Jaimchariyatam
-* Ekapol Chuangsuwanich
-* Wei Chen
-* Huy Phan
-* Nat Dilokthanakul
-* Theerawit Wilaiprasitporn
-
 ## Citation
 To cite [our paper](https://doi.org/10.1109/JBHI.2020.3037693),
 
